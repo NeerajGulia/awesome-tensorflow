@@ -105,6 +105,8 @@ More info [here](http://tensorflow.org).
 * [Unsupervised Object Counting](https://github.com/akosiorek/attend_infer_repeat) - Implementation of ["Attend, Infer, Repeat"](https://papers.nips.cc/paper/6230-attend-infer-repeat-fast-scene-understanding-with-generative-models)
 * [Tensorflow FastText](https://github.com/apcode/tensorflow_fasttext) - A simple embedding based text classifier inspired by Facebook's fastText.
 * [Kubeflow](https://github.com/kubeflow/kubeflow) - Framework for easily using Tensorflow with Kubernetes.
+* [Object Detection](https://github.com/tensorflow/models/tree/master/research/object_detection) - Predefined models which can be used by enthusiasts.
+* [Model Zoo](https://github.com/tensorflow/models/blob/master/research/object_detection/g3doc/detection_model_zoo.md) - Pretrained models which can be used directly.
 
 <a name="github-powered-by" />
 
